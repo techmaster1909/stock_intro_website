@@ -1,0 +1,13 @@
+p {
+  color: black;
+  font-family: fantasy;
+  
+}
+marquee {
+  font-size: xx-large;
+}
+
+body {
+  background-color: #2a2a72;
+  background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 60%);
+}
